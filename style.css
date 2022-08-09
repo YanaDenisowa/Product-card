@@ -109,6 +109,10 @@
     background-color: #223026;
     transition: 0.5s;
 }
+.main .description {
+    padding: 0 15px;
+}
+
 @media (max-width: 577px) {
     .card {
         flex-direction: column;
