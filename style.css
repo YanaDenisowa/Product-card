@@ -109,7 +109,7 @@
     background-color: #223026;
     transition: 0.5s;
 }
-.main .description {
+.main .description.rigths {
     padding: 0 15px;
 }
 
